@@ -1,11 +1,16 @@
 .sidebarshows{
   width: 20%;
   float:right;
+  margin: 100px;
+  border: 10px solid green;
+  padding: 20px;
   background-color: aqua;
 }
 
+
 img {
   float: left;
+  padding: 20px;
 }
 
 .main{
